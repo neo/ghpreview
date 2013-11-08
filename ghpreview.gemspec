@@ -21,5 +21,4 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'rb-fsevent'
   gem.add_dependency 'html-pipeline', '0.0.6'
   gem.add_dependency 'httpclient'
-  gem.add_dependency 'github-linguist', '2.1'
 end
